@@ -1,0 +1,16 @@
+< script type = " text / javascript " src = " https://maps.googleapis.com/maps/api/js?key=AIzaSyBY5p5e
+  / script
+< script src = " https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js " > < / script >
+
+
+< script type = " text / javascript " src = " https://maps.googleapis.com/maps/api/js?key=AIzaSyBY5p5e5PtJ
+
+
+
+< script type = " text / javascript " >
+     $ ( document ) .ready ( function ( ) {
+         var autocomplete ;
+         var id = " location " ;
+         autocomplete = new google.maps.places . Autocomplete ( ( document.getElementById ( to ) ) )
+     } ) ;
+< / script >
